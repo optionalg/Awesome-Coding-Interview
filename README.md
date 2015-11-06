@@ -1,6 +1,6 @@
 # Awesome-Coding-Interview
 
-- Topics
+## Topics
   1. Primitive types
   1. Arrays
   1. String
@@ -34,7 +34,7 @@
     - DBMS
     - Threads and Locks
 
-- Big interviews in 
+## Big interviews in 
   - 6 months
   - 3 months
   - 1 month
